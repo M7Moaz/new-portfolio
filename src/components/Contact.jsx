@@ -144,7 +144,7 @@ export const ContactForm = () => {
         (error) => {
           setState({
             type: "error",
-            message: `${t("faild_mail")} ${error.text}`,
+            message: `${t("faild_mail")} ${error.text || t("custom_error")}`,
           });
           setLoading(false);
         }

@@ -49,7 +49,7 @@ const PopupState = ({ state, setState }) => {
             )}
             <div className="mb-4 px-4 text-md font-semibold text-gray-900 dark:text-white">
               <p>
-                {t("dear")}
+                {state.name && t("dear")}
                 <span className="text-brand dark:text-primary">
                   {state.name}
                 </span>

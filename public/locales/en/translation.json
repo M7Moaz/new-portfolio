@@ -127,5 +127,6 @@
   "close": "Close",
   "footer_copyright": "Copyright ",
   "moaz": "Moaz",
-  "made_by": "Made by"
+  "made_by": "Made by",
+  "custom_error": "Make sure you are connected to the network."
 }
