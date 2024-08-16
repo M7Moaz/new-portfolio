@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.moazx.com/sitemap.xml

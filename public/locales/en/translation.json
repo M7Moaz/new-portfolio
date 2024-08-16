@@ -1,0 +1,131 @@
+{
+  "links": [
+    { "name": "Home", "url": "#home" },
+    { "name": "Projects", "url": "#projects" },
+    { "name": "Skills", "url": "#skills" },
+    { "name": "Contact", "url": "#contact" }
+  ],
+  "hi_i_am_moaz": "Hi, I'm Moaz",
+  "creative": "Creative",
+  "developer": "developer",
+  "heroDesc": "Over 2 Years of experience in frontend development using Javascript",
+  "resume": "Resume",
+  "metrics": [
+    {
+      "name": "Projects Done",
+      "number": "8"
+    },
+    {
+      "name": "Clients",
+      "number": "5"
+    },
+    {
+      "name": "Countries",
+      "number": "3"
+    },
+    {
+      "name": "Completed Tasks",
+      "number": "+50"
+    },
+    {
+      "name": "Active Projects",
+      "number": "0"
+    },
+    {
+      "name": "Years of Experience",
+      "number": "2"
+    }
+  ],
+  "services": "Services",
+  "services_cards": [
+    {
+      "title": "Web Developer",
+      "description": "I craft high-performance, responsive websites tailored to your business needs. my solutions ensure a secure and seamless user experience."
+    },
+    {
+      "title": "Responsive Web Design",
+      "description": "I create visually appealing and functional websites that look great on all devices, from desktops to mobile phones."
+    },
+    {
+      "title": "UI/UX Design",
+      "description": "I design intuitive and user-friendly interfaces that enhance user experience and engagement."
+    },
+    {
+      "title": "Single Page Applications",
+      "description": "I develop fast and interactive single-page applications using modern JavaScript frameworks like React.js."
+    },
+    {
+      "title": "Performance Optimization",
+      "description": "I optimize website performance to ensure fast load times and a smooth user experience."
+    },
+    {
+      "title": "Cross-Browser Compatibility",
+      "description": "I ensure websites work seamlessly across all major browsers and platforms."
+    },
+    {
+      "title": "Version Control",
+      "description": "I utilize version control systems like Git to manage and track code changes effectively."
+    },
+    {
+      "title": "Accessibility",
+      "description": "I build accessible websites that comply with web accessibility standards to ensure inclusivity for all users."
+    }
+  ],
+  "projects": "Projects",
+  "projects_cards": [
+    {
+      "name": "Memories Beuaty",
+      "date": "Published: 2022",
+      "desc": "Cosmetic clinic website",
+      "url": "https://memoriesbeauty.com/",
+      "img": "/beauty.png",
+      "techImg": "/javascript.png"
+    },
+
+    {
+      "name": "Siri Best",
+      "date": "Published: 2024",
+      "desc": "Movies review site",
+      "url": "https://movies.moazx.com/",
+      "img": "/siribest.png",
+      "techImg": "/next.png"
+    },
+    {
+      "name": "Travel",
+      "date": "Published: 2024",
+      "desc": "Travel company website",
+      "url": "https://firebrick-giraffe-843316.hostingersite.com/",
+      "img": "/travel.png",
+      "techImg": "/next.png"
+    }
+  ],
+  "visit_site": "Visit Site",
+  "skills": "Skills",
+  "skill_lvl": [
+    "Master",
+    "Master",
+    "Professional",
+    "Professional",
+    "Skilled",
+    "Skilled",
+    "Beginner"
+  ],
+  "lets_talk": "Let's Talk",
+  "contact_desc": "If you have any questions, don't hesitate to reach out—leave us a message and we'll get back to you soon.",
+  "socials": "Socials",
+  "email": "Email",
+  "mail": "Mail",
+  "contact_name": "Name",
+  "contact_email": "Email",
+  "contact_subject": "Subject",
+  "contact_message": "Message",
+  "contact_send": "Send",
+  "contact_sending": "Sending Please Wait..",
+  "faild_mail": "Failed to send mail: ",
+  "success_mail": "Thank you for reaching out to us. We will respond to your inquiry as soon as possible.",
+  "dear": "Dear ",
+  "close": "Close",
+  "footer_copyright": "Copyright ",
+  "moaz": "Moaz",
+  "made_by": "Made by"
+}

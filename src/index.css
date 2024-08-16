@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply transition-colors duration-75;
+  scroll-behavior: smooth;
+}
+.will-move {
+  will-change: transform;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: rgba(254, 114, 165, 0.19);
+  opacity: 0.5;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #3e7cf958;
+}

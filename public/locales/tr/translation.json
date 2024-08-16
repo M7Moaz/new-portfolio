@@ -1,0 +1,19 @@
+{
+  "companyName": "Memories Beuaty | Güzellik Merkezi",
+  "memoriesBeauty": "Memories Beuaty",
+  "servicesBtn": "Hizmetlerimiz",
+  "links": [
+    { "name": "Anasayfa", "url": "/" },
+    { "name": "Hakkımızda", "url": "/" },
+    { "name": "Hizmetlerimiz", "url": "/" },
+    { "name": "İletişim", "url": "/" }
+  ],
+  "langs": {
+    "title": "Diller",
+    "result": [
+      { "name": "العربية", "lang": "ar" },
+      { "name": "English", "lang": "en" },
+      { "name": "Türkçe", "lang": "tr" }
+    ]
+  }
+}
