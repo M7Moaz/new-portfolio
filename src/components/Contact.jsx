@@ -207,7 +207,7 @@ export const ContactForm = () => {
           type="submit"
           disabled={loading}
           className={`${
-            loading ? "bg-gray-500 dark:bg-gray-500" : ""
+            loading ? "bg-gray-500 dark:bg-gray-600" : ""
           } text-light bg-brand dark:bg-primary tracking-wide rounded-md text-sm px-4 py-3 w-full !mt-6`}
         >
           {loading ? (
