@@ -1,4 +1,10 @@
 {
+  "meta_title": "Dev. Moaz | Front-End Web Developer",
+  "meta_description": "Moaz is a skilled JavaScript and React developer specializing in front-end web development. Explore projects, learn about modern development techniques, and get in touch for collaborations.",
+  "meta_keywords": "JavaScript, React, Next.js, Front-End Developer, Web Development, Moaz, Tailwind, CSS, UI/UX Design, Moaz Al-Jasem",
+  "meta_ogTitle": "Moaz - Expert JavaScript & React Developer",
+  "meta_ogDescription": "Specializing in front-end web development with modern JavaScript and React.",
+  "meta_ogUrl": "https://www.moazx.com",
   "links": [
     { "name": "Home", "url": "#home" },
     { "name": "Projects", "url": "#projects" },

@@ -1,4 +1,11 @@
 {
+  "meta_title": "معاذ | مطور ويب",
+
+  "meta_description": "معاذ مطور ماهر في JavaScript وReact، متخصص في تطوير الواجهة الأمامية. استكشف المشاريع، وتعرف على تقنيات التطوير الحديثة، وتواصل للحصول على تعاونات.",
+  "meta_keywords": "JavaScript، React، Next.js، مطور واجهة أمامية، تطوير ويب، معاذ، Tailwind، CSS، تصميم UI/UX, معاذ الجاسم",
+  "meta_ogTitle": "معاذ - مطور JavaScript وReact خبير",
+  "meta_ogDescription": "متخصص في تطوير الواجهة الأمامية باستخدام JavaScript الحديث وReact.",
+  "meta_ogUrl": "https://www.moazx.com",
   "links": [
     { "name": "الصفحة الرئيسية", "url": "#home", "icon": "<FaHome />" },
     { "name": "المشاريع", "url": "#projects", "icon": "<MdWork />" },

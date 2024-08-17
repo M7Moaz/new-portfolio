@@ -1,0 +1,136 @@
+{
+  "meta_title": "Dev. Moaz | Front-end webontwikkelaar",
+  "meta_description": "Moaz is een bekwame JavaScript- en React-ontwikkelaar die gespecialiseerd is in front-end webontwikkeling. Ontdek projecten, leer moderne ontwikkelingstechnieken en neem contact op voor samenwerkingen.",
+  "meta_keywords": "JavaScript, React, Next.js, Front-End Ontwikkelaar, Webontwikkeling, Moaz, Tailwind, CSS, UI/UX Ontwerp, Moaz-Al-Jasme",
+  "meta_ogTitle": "Moaz - Expert JavaScript & React Ontwikkelaar",
+  "meta_ogDescription": "Gespecialiseerd in front-end webontwikkeling met modern JavaScript en React.",
+  "links": [
+    { "name": "Home", "url": "#home" },
+    { "name": "Projecten", "url": "#projects" },
+    { "name": "Vaardigheden", "url": "#skills" },
+    { "name": "Contact", "url": "#contact" }
+  ],
+  "hi_i_am_moaz": "Hoi, ik ben Moaz",
+  "creative": "Creatief",
+  "developer": "ontwikkelaar",
+  "heroDesc": "Meer dan 2 jaar ervaring in frontend-ontwikkeling met Javascript",
+  "resume": "CV",
+  "metrics": [
+    {
+      "name": "Voltooide Projecten",
+      "number": "8"
+    },
+    {
+      "name": "Klanten",
+      "number": "5"
+    },
+    {
+      "name": "Landen",
+      "number": "3"
+    },
+    {
+      "name": "Voltooide Taken",
+      "number": "+50"
+    },
+    {
+      "name": "Actieve Projecten",
+      "number": "0"
+    },
+    {
+      "name": "Jaren Ervaring",
+      "number": "2"
+    }
+  ],
+  "services": "Diensten",
+  "services_cards": [
+    {
+      "title": "Webontwikkelaar",
+      "description": "Ik maak prestatiegerichte, responsieve websites die zijn afgestemd op de behoeften van uw bedrijf. Mijn oplossingen zorgen voor een veilige en naadloze gebruikerservaring."
+    },
+    {
+      "title": "Responsieve Webdesign",
+      "description": "Ik creëer visueel aantrekkelijke en functionele websites die er op alle apparaten goed uitzien, van desktops tot mobiele telefoons."
+    },
+    {
+      "title": "UI/UX Ontwerp",
+      "description": "Ik ontwerp intuïtieve en gebruiksvriendelijke interfaces die de gebruikerservaring en betrokkenheid verbeteren."
+    },
+    {
+      "title": "Single Page Applicaties",
+      "description": "Ik ontwikkel snelle en interactieve single-page applicaties met behulp van moderne JavaScript-frameworks zoals React.js."
+    },
+    {
+      "title": "Prestatieoptimalisatie",
+      "description": "Ik optimaliseer de prestaties van websites om snelle laadtijden en een soepele gebruikerservaring te garanderen."
+    },
+    {
+      "title": "Cross-browser Compatibiliteit",
+      "description": "Ik zorg ervoor dat websites probleemloos werken in alle grote browsers en platforms."
+    },
+    {
+      "title": "Versiebeheer",
+      "description": "Ik maak gebruik van versiebeheersystemen zoals Git om codewijzigingen effectief te beheren en bij te houden."
+    },
+    {
+      "title": "Toegankelijkheid",
+      "description": "Ik bouw toegankelijke websites die voldoen aan de webtoegankelijkheidsnormen om inclusiviteit voor alle gebruikers te waarborgen."
+    }
+  ],
+  "projects": "Projecten",
+  "projects_cards": [
+    {
+      "name": "Memories Beauty",
+      "date": "Gepubliceerd: 2022",
+      "desc": "Website van een cosmetische kliniek",
+      "url": "https://memoriesbeauty.com/",
+      "img": "/beauty.png",
+      "techImg": "/javascript.png"
+    },
+    {
+      "name": "Siri Best",
+      "date": "Gepubliceerd: 2024",
+      "desc": "Films beoordelingssite",
+      "url": "https://movies.moazx.com/",
+      "img": "/siribest.png",
+      "techImg": "/next.png"
+    },
+    {
+      "name": "Reizen",
+      "date": "Gepubliceerd: 2024",
+      "desc": "Website van een reisorganisatie",
+      "url": "https://firebrick-giraffe-843316.hostingersite.com/",
+      "img": "/travel.png",
+      "techImg": "/next.png"
+    }
+  ],
+  "visit_site": "Bezoek Site",
+  "skills": "Vaardigheden",
+  "skill_lvl": [
+    "Meester",
+    "Meester",
+    "Professioneel",
+    "Professioneel",
+    "Bekwaam",
+    "Bekwaam",
+    "Beginner"
+  ],
+  "lets_talk": "Laten we praten",
+  "contact_desc": "Als u vragen heeft, aarzel dan niet om contact op te nemen—laat ons een bericht achter en we nemen zo snel mogelijk contact met u op.",
+  "socials": "Social Media",
+  "email": "E-mail",
+  "mail": "Post",
+  "contact_name": "Naam",
+  "contact_email": "E-mail",
+  "contact_subject": "Onderwerp",
+  "contact_message": "Bericht",
+  "contact_send": "Verstuur",
+  "contact_sending": "Versturen, even geduld alstublieft...",
+  "faild_mail": "E-mail verzenden mislukt: ",
+  "success_mail": "Bedankt voor uw bericht. We zullen zo snel mogelijk reageren.",
+  "dear": "Beste ",
+  "close": "Sluiten",
+  "footer_copyright": "Copyright ",
+  "moaz": "Moaz",
+  "made_by": "Gemaakt door",
+  "custom_error": "Zorg ervoor dat u met het netwerk bent verbonden."
+}

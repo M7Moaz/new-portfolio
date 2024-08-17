@@ -1,19 +1,136 @@
 {
-  "companyName": "Memories Beuaty | Güzellik Merkezi",
-  "memoriesBeauty": "Memories Beuaty",
-  "servicesBtn": "Hizmetlerimiz",
+  "meta_title": "Dev. Moaz | Web Geliştiricisi",
+  "meta_description": "Moaz, ön yüz web geliştirme konusunda uzmanlaşmış yetenekli JavaScript ve React geliştiricisidir. Projeleri keşfedin, modern geliştirme tekniklerini öğrenin ve işbirlikleri için iletişime geçin.",
+  "meta_keywords": "JavaScript, React, Next.js, Ön Yüz Geliştirici, Web Geliştirme, Moaz, Tailwind, CSS, UI/UX Tasarım, Muaz Elcesim",
+  "meta_ogTitle": "Moaz - Uzman JavaScript ve React Geliştiricisi",
+  "meta_ogDescription": "Modern JavaScript ve React ile ön yüz web geliştirme konusunda uzmanlaşmış.",
   "links": [
-    { "name": "Anasayfa", "url": "/" },
-    { "name": "Hakkımızda", "url": "/" },
-    { "name": "Hizmetlerimiz", "url": "/" },
-    { "name": "İletişim", "url": "/" }
+    { "name": "Ana Sayfa", "url": "#home" },
+    { "name": "Projeler", "url": "#projects" },
+    { "name": "Yetenekler", "url": "#skills" },
+    { "name": "İletişim", "url": "#contact" }
   ],
-  "langs": {
-    "title": "Diller",
-    "result": [
-      { "name": "العربية", "lang": "ar" },
-      { "name": "English", "lang": "en" },
-      { "name": "Türkçe", "lang": "tr" }
-    ]
-  }
+  "hi_i_am_moaz": "Merhaba, Ben Moaz",
+  "creative": "Yaratıcı",
+  "developer": "Geliştirici",
+  "heroDesc": "JavaScript kullanarak ön yüz geliştirmede 2 yıldan fazla deneyime sahibim",
+  "resume": "Özgeçmiş",
+  "metrics": [
+    {
+      "name": "Tamamlanan Projeler",
+      "number": "8"
+    },
+    {
+      "name": "Müşteriler",
+      "number": "5"
+    },
+    {
+      "name": "Ülkeler",
+      "number": "3"
+    },
+    {
+      "name": "Tamamlanan Görevler",
+      "number": "+50"
+    },
+    {
+      "name": "Aktif Projeler",
+      "number": "0"
+    },
+    {
+      "name": "Deneyim Yılı",
+      "number": "2"
+    }
+  ],
+  "services": "Hizmetler",
+  "services_cards": [
+    {
+      "title": "Web Geliştirici",
+      "description": "İşletmenizin ihtiyaçlarına uygun yüksek performanslı, duyarlı web siteleri oluşturuyorum. Çözümlerim güvenli ve sorunsuz bir kullanıcı deneyimi sağlar."
+    },
+    {
+      "title": "Duyarlı Web Tasarımı",
+      "description": "Masaüstünden mobil telefonlara kadar tüm cihazlarda harika görünen ve işlevsel web siteleri tasarlıyorum."
+    },
+    {
+      "title": "UI/UX Tasarımı",
+      "description": "Kullanıcı deneyimini ve etkileşimini artıran sezgisel ve kullanıcı dostu arayüzler tasarlıyorum."
+    },
+    {
+      "title": "Tek Sayfa Uygulamaları",
+      "description": "React.js gibi modern JavaScript çerçeveleri kullanarak hızlı ve etkileşimli tek sayfa uygulamaları geliştiriyorum."
+    },
+    {
+      "title": "Performans Optimizasyonu",
+      "description": "Web sitesi performansını hızlı yükleme süreleri ve sorunsuz bir kullanıcı deneyimi sağlayacak şekilde optimize ediyorum."
+    },
+    {
+      "title": "Çapraz Tarayıcı Uyumluluğu",
+      "description": "Web sitelerinin tüm önemli tarayıcılarda ve platformlarda sorunsuz çalışmasını sağlıyorum."
+    },
+    {
+      "title": "Sürüm Kontrolü",
+      "description": "Kod değişikliklerini etkili bir şekilde yönetmek ve takip etmek için Git gibi sürüm kontrol sistemlerini kullanıyorum."
+    },
+    {
+      "title": "Erişilebilirlik",
+      "description": "Tüm kullanıcılar için kapsayıcılığı sağlamak amacıyla web erişilebilirlik standartlarına uygun erişilebilir web siteleri oluşturuyorum."
+    }
+  ],
+  "projects": "Projeler",
+  "projects_cards": [
+    {
+      "name": "Memories Beauty",
+      "date": "Yayınlanma Tarihi: 2022",
+      "desc": "Kozmetik klinik web sitesi",
+      "url": "https://memoriesbeauty.com/",
+      "img": "/beauty.png",
+      "techImg": "/javascript.png"
+    },
+    {
+      "name": "Siri Best",
+      "date": "Yayınlanma Tarihi: 2024",
+      "desc": "Film incelemesi sitesi",
+      "url": "https://movies.moazx.com/",
+      "img": "/siribest.png",
+      "techImg": "/next.png"
+    },
+    {
+      "name": "Travel",
+      "date": "Yayınlanma Tarihi: 2024",
+      "desc": "Seyahat şirketi web sitesi",
+      "url": "https://firebrick-giraffe-843316.hostingersite.com/",
+      "img": "/travel.png",
+      "techImg": "/next.png"
+    }
+  ],
+  "visit_site": "Siteyi Ziyaret Et",
+  "skills": "Yetenekler",
+  "skill_lvl": [
+    "Uzman",
+    "Uzman",
+    "Profesyonel",
+    "Profesyonel",
+    "Yetenekli",
+    "Yetenekli",
+    "Başlangıç Düzeyi"
+  ],
+  "lets_talk": "İletişim",
+  "contact_desc": "Herhangi bir sorunuz varsa, çekinmeden bize mesaj bırakın; en kısa sürede size geri döneceğiz.",
+  "socials": "Sosyal Medya",
+  "email": "E-posta",
+  "mail": "Posta",
+  "contact_name": "Ad",
+  "contact_email": "E-posta",
+  "contact_subject": "Konu",
+  "contact_message": "Mesaj",
+  "contact_send": "Gönder",
+  "contact_sending": "Gönderiliyor, Lütfen Bekleyin..",
+  "faild_mail": "E-posta gönderilemedi: ",
+  "success_mail": "Bize ulaştığınız için teşekkür ederiz. Sorunuzu en kısa sürede yanıtlayacağız.",
+  "dear": "Sayın ",
+  "close": "Kapat",
+  "footer_copyright": "Copyright ",
+  "moaz": "Moaz",
+  "made_by": "Tarafından Oluşturuldu",
+  "custom_error": "Ağa bağlı olduğunuzdan emin olun."
 }

@@ -9,6 +9,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Projects from "./components/projects";
 import { useTranslation } from "react-i18next";
+import Metadata from "./components/Metadata";
 function App() {
   const [modeState, setModeState] = useState(
     localStorage.getItem("mode") || "light"
@@ -21,6 +22,7 @@ function App() {
 
   useEffect(() => {
     const currentLang = i18n.language;
+    document.documentElement.lang = currentLang;
 
     if (currentLang === "ar") {
       document.body.setAttribute("dir", "rtl");
@@ -33,6 +35,7 @@ function App() {
 
   return (
     <main className={`${modeState}`}>
+      <Metadata />
       <div
         id="home"
         className="min-h-[calc(100vh-20vh)] py-3 bg-gradient-to-br from-blue-50 via-purple-100 to-red-50 dark:from-gray-700 dark:via-slate-700 dark:to-gray-600 overflow-hidden"

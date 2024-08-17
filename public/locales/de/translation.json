@@ -1,0 +1,137 @@
+{
+  "meta_title": "Dev. Moaz | Front-End Webentwickler",
+  "meta_description": "Moaz ist ein erfahrener JavaScript- und React-Entwickler, der auf Front-End-Webentwicklung spezialisiert ist. Entdecken Sie Projekte, lernen Sie moderne Entwicklungstechniken kennen und nehmen Sie für Kooperationen Kontakt auf.",
+  "meta_keywords": "JavaScript, React, Next.js, Front-End-Entwickler, Webentwicklung, Moaz, Tailwind, CSS, UI/UX Design, Moaz Aljasem,",
+  "meta_ogTitle": "Moaz - Experte für JavaScript & React Entwickler",
+  "meta_ogDescription": "Spezialisiert auf Front-End-Webentwicklung mit modernem JavaScript und React.",
+  "links": [
+    { "name": "Startseite", "url": "#home" },
+    { "name": "Projekte", "url": "#projects" },
+    { "name": "Fähigkeiten", "url": "#skills" },
+    { "name": "Kontakt", "url": "#contact" }
+  ],
+  "hi_i_am_moaz": "Hallo, ich bin Moaz",
+  "creative": "Kreativ",
+  "developer": "Entwickler",
+  "heroDesc": "Über 2 Jahre Erfahrung in der Frontend-Entwicklung mit Javascript",
+  "resume": "Lebenslauf",
+  "metrics": [
+    {
+      "name": "Abgeschlossene Projekte",
+      "number": "8"
+    },
+    {
+      "name": "Kunden",
+      "number": "5"
+    },
+    {
+      "name": "Länder",
+      "number": "3"
+    },
+    {
+      "name": "Abgeschlossene Aufgaben",
+      "number": "+50"
+    },
+    {
+      "name": "Aktive Projekte",
+      "number": "0"
+    },
+    {
+      "name": "Jahre Erfahrung",
+      "number": "2"
+    }
+  ],
+  "services": "Dienstleistungen",
+  "services_cards": [
+    {
+      "title": "Web-Entwickler",
+      "description": "Ich entwickle leistungsstarke, responsive Websites, die auf Ihre geschäftlichen Anforderungen zugeschnitten sind. Meine Lösungen bieten eine sichere und nahtlose Benutzererfahrung."
+    },
+    {
+      "title": "Responsives Webdesign",
+      "description": "Ich gestalte optisch ansprechende und funktionale Websites, die auf allen Geräten gut aussehen, von Desktops bis zu Mobiltelefonen."
+    },
+    {
+      "title": "UI/UX-Design",
+      "description": "Ich entwerfe intuitive und benutzerfreundliche Oberflächen, die das Nutzererlebnis und die Benutzerbindung verbessern."
+    },
+    {
+      "title": "Single-Page-Anwendungen",
+      "description": "Ich entwickle schnelle und interaktive Single-Page-Anwendungen mit modernen JavaScript-Frameworks wie React.js."
+    },
+    {
+      "title": "Leistungsoptimierung",
+      "description": "Ich optimiere die Leistung von Websites, um schnelle Ladezeiten und ein reibungsloses Nutzererlebnis zu gewährleisten."
+    },
+    {
+      "title": "Browserkompatibilität",
+      "description": "Ich stelle sicher, dass Websites in allen gängigen Browsern und Plattformen nahtlos funktionieren."
+    },
+    {
+      "title": "Versionskontrolle",
+      "description": "Ich nutze Versionskontrollsysteme wie Git, um Änderungen im Code effektiv zu verwalten und zu verfolgen."
+    },
+    {
+      "title": "Barrierefreiheit",
+      "description": "Ich baue barrierefreie Websites, die den Web-Zugänglichkeitsstandards entsprechen und Inklusion für alle Nutzer gewährleisten."
+    }
+  ],
+  "projects": "Projekte",
+  "projects_cards": [
+    {
+      "name": "Memories Beauty",
+      "date": "Veröffentlicht: 2022",
+      "desc": "Kosmetische Klinik-Website",
+      "url": "https://memoriesbeauty.com/",
+      "img": "/beauty.png",
+      "techImg": "/javascript.png"
+    },
+
+    {
+      "name": "Siri Best",
+      "date": "Veröffentlicht: 2024",
+      "desc": "Filmkritikseite",
+      "url": "https://movies.moazx.com/",
+      "img": "/siribest.png",
+      "techImg": "/next.png"
+    },
+    {
+      "name": "Reisen",
+      "date": "Veröffentlicht: 2024",
+      "desc": "Reisebüro-Website",
+      "url": "https://firebrick-giraffe-843316.hostingersite.com/",
+      "img": "/travel.png",
+      "techImg": "/next.png"
+    }
+  ],
+  "visit_site": "Seite besuchen",
+  "skills": "Fähigkeiten",
+  "skill_lvl": [
+    "Experte",
+    "Experte",
+    "Professionell",
+    "Professionell",
+    "Geübt",
+    "Geübt",
+    "Anfänger"
+  ],
+  "lets_talk": "Lass uns reden",
+  "contact_desc": "Wenn Sie Fragen haben, zögern Sie nicht, uns zu kontaktieren - hinterlassen Sie uns eine Nachricht und wir melden uns so schnell wie möglich bei Ihnen.",
+  "socials": "Soziale Netzwerke",
+  "email": "E-Mail",
+  "mail": "E-Mail",
+  "contact_name": "Name",
+  "contact_email": "E-Mail",
+  "contact_subject": "Betreff",
+  "contact_message": "Nachricht",
+  "contact_send": "Senden",
+  "contact_sending": "Senden Bitte warten...",
+  "faild_mail": "Fehler beim Senden der E-Mail: ",
+  "success_mail": "Vielen Dank für Ihre Nachricht. Wir werden uns so schnell wie möglich bei Ihnen melden.",
+  "dear": "Sehr geehrter ",
+  "close": "Schließen",
+  "footer_copyright": "Urheberrecht ",
+  "moaz": "Moaz",
+  "made_by": "Erstellt von",
+  "custom_error": "Stellen Sie sicher, dass Sie mit dem Netzwerk verbunden sind."
+}

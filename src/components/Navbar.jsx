@@ -176,6 +176,16 @@ export function LanguageSwitcher() {
             className="absolute text-center mt-2 rounded-md shadow-md -left-1/2 bg-white dark:bg-mid_gray dark:text-light ring-opacity-5"
           >
             <button
+              className="w-full py-1 px-2 hover:bg-brand hover:text-light dark:hover:bg-primary"
+              style={{ fontFamily: "Cairo" }}
+              onClick={() => {
+                changeLanguage("ar");
+                setIsOpen(false);
+              }}
+            >
+              عربي
+            </button>
+            <button
               className=" w-full py-1 px-2 hover:bg-brand hover:text-light dark:hover:bg-primary"
               onClick={() => {
                 changeLanguage("en");
@@ -186,13 +196,30 @@ export function LanguageSwitcher() {
             </button>
             <button
               className=" w-full py-1 px-2 hover:bg-brand hover:text-light dark:hover:bg-primary"
-              style={{ fontFamily: "Cairo" }}
               onClick={() => {
-                changeLanguage("ar");
+                changeLanguage("tr");
                 setIsOpen(false);
               }}
             >
-              عربي
+              Türkçe
+            </button>
+            <button
+              className=" w-full py-1 px-2 hover:bg-brand hover:text-light dark:hover:bg-primary"
+              onClick={() => {
+                changeLanguage("de");
+                setIsOpen(false);
+              }}
+            >
+              Deutsch
+            </button>
+            <button
+              className=" w-full py-1 px-2 hover:bg-brand hover:text-light dark:hover:bg-primary"
+              onClick={() => {
+                changeLanguage("nl");
+                setIsOpen(false);
+              }}
+            >
+              Dutch
             </button>
           </motion.div>
         )}
